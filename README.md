@@ -4,7 +4,7 @@
 - 🐱‍💻 Hoje trabalho como Analista de Sistemas e Suporte Técnico N1.
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- 🧠 Estou me aprimorando em Web Developer - Full Stack
+- 🧠 Atualmente estou me aprimorando em Web Developer - Full Stack
 - 📫 Pode me contatar via e-mail: rudnick.nogueira@gmail.com
 - 💞️ CEO - Plataforma digital “i9naRede & Rede Templates” 
 <!---
