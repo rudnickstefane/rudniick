@@ -1,6 +1,4 @@
-<head>
-<link rel="stylesheet" type="text/css" href="folha.css" media="screen" />
-</head>
+<link rel="stylesheet" href="folha.css">
 
 <div id="user-content-fundo-game">
 ### Olá aventureiro(a) {username}, bem vindo(a) ao mundo Profile.
