@@ -1,9 +1,5 @@
-<link rel="stylesheet" href="folha.css">
-
-<div id="user-content-fundo-game">
 ### Olá aventureiro(a) {username}, bem vindo(a) ao mundo Profile.
 #### Eu me chamo Rudnick e serei seu guia.
-</div>
 
 <img src="header.svg" width="800" height="400" alt="Click to see the source">
 - 👋 Hi, I’m @rudnickstephan
