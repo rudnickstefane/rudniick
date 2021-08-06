@@ -7,7 +7,7 @@
 - 💞️ CEO - Plataforma digital “i9naRede & Rede Templates” ...
 - 📫 Pode me contatar via e-mail: rudnick.nogueira@gmail.com
 - 🧠 Atualmente estou me aprimorando em Web Developer - Full Stack
-- 
+
 <!---
 rudnickstephan/rudnickstephan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
