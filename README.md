@@ -1,12 +1,12 @@
 ### Olá aventureiro(a) {username}, bem vindo(a) ao meu Mundo.
-#### Eu me chamo Rudnick e serei seu guia.
+#### Eu me chamo Rudnick e serei seu guia 👋
 
-- 👋 Hi, I’m @rudnickstephan
+- 🐱‍💻 Hoje trabalho como Analista de Sistemas e Suporte Técnico N1.
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-<input type="text" id="fname" name="fname">oi<br><br>
+- 🧠 Estou me aprimorando em Web Developer - Full Stack
+- 📫 Pode me contatar via e-mail: rudnick.nogueira@gmail.com
+- 💞️ CEO - Plataforma digital “I9narede” 
 <!---
 rudnickstephan/rudnickstephan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
