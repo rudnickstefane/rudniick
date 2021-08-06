@@ -1,6 +1,7 @@
 ### Olá aventureiro(a) {username}, bem vindo(a) ao mundo Profile.
 #### Eu me chamo Rudnick e serei seu guia.
 
+<img src="memoria.svg" width="800" height="400" alt="Click to see the source">
 <img src="header.svg" width="800" height="400" alt="Click to see the source">
 - 👋 Hi, I’m @rudnickstephan
 - 👀 I’m interested in ...
