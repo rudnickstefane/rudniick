@@ -9,7 +9,7 @@
 - 🧠 Atualmente estou me aprimorando em Web Developer - Full Stack
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudnickstephan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudnickstephan&layout=compact&langs_count=5&theme=tokyonight)](https://github.com/rudnickstephan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudnickstephan&layout=compact&langs_count=2&theme=tokyonight)](https://github.com/rudnickstephan/github-readme-stats)
 
 <!---
 rudnickstephan/rudnickstephan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
