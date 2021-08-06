@@ -1,4 +1,7 @@
-<link rel="stylesheet" type="text/css" href="folha.css"/>
+<head>
+<link rel="stylesheet" type="text/css" href="folha.css" media="screen" />
+</head>
+
 <div id="fundo-game">
 ### Olá aventureiro(a) {username}, bem vindo(a) ao mundo Profile.
 #### Eu me chamo Rudnick e serei seu guia.
