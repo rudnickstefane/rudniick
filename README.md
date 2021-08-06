@@ -1,4 +1,6 @@
-### Olá aventureiro ${your.username} .${your.repo.id}, me chamo Rudnick, mas você pode me chamar de Rud ou Nick, fica ao seu critério!
+### Olá aventureiro(a) {username}, bem vindo(a) ao mundo Profile.
+#### Eu me chamo Rudnick e serei seu guia.
+
 - 👋 Hi, I’m @rudnickstephan
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
