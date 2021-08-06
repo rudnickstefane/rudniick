@@ -1,4 +1,4 @@
-### Olá aventureiro(a) {username}, bem vindo(a) ao mundo Profile.
+### Olá aventureiro(a) {username}, bem vindo(a) ao meu Mundo.
 #### Eu me chamo Rudnick e serei seu guia.
 
 - 👋 Hi, I’m @rudnickstephan
