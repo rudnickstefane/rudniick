@@ -8,9 +8,8 @@
 - 📫 Pode me contatar via e-mail: rudnick.nogueira@gmail.com
 - 🧠 Atualmente estou me aprimorando em Web Developer - Full Stack
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudnickstephan&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudnickstephan&layout=compact&theme=tokyonight)](https://github.com/rudnickstephan/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rudnickstephan&repo=github-readme-stats&theme=tokyonight)](https://github.com/rudnickstephan/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudnickstephan&show_icons=true&theme=tokyonight)
 
 <!---
 rudnickstephan/rudnickstephan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
