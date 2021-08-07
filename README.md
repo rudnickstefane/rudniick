@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudnickstephan&locale=pt-BR&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-## ❤️ Implante sua própria essência
+## 💖 Implante sua própria essência
 
 - 🌱 Um simples Noob pode tornar-se um grande Mestre ...
 - 🐱‍💻 Hoje trabalho como Analista de Sistemas e Suporte Técnico N1.
