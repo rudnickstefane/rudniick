@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudnickstephan&locale=pt-BR&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-# Mantenha sua ideia em dia 👇
+## ❤️ Implante sua própria essência
 
 - 🌱 Um simples Noob pode tornar-se um grande Mestre ...
 - 🐱‍💻 Hoje trabalho como Analista de Sistemas e Suporte Técnico N1.
@@ -16,6 +16,7 @@
 - 📫 Pode me contatar via e-mail: rudnick.nogueira@gmail.com
 - 🧠 Atualmente estou me aprimorando em Web Developer - Full Stack
 
+Feito com ❤️ e JavaScript.
 <!---
 rudnickstephan/rudnickstephan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
