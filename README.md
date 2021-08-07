@@ -1,5 +1,5 @@
 ### Olá aventureiro(a) [{username}](https://rudnickstephan.github.io), bem vindo(a) ao meu Mundo.
-#### Eu me chamo Rudnick e serei seu guia 👋
+#### Eu me chamo Rudnick e serei seu guia por aqui... 👋
 
 - 🌱 Um simples Noob pode tornar-se um grande Mestre ...
 - 🐱‍💻 Hoje trabalho como Analista de Sistemas e Suporte Técnico N1.
@@ -9,8 +9,8 @@
 - 🧠 Atualmente estou me aprimorando em Web Developer - Full Stack
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudnickstephan&layout=compact&langs_count=7&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rudnickstephan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudnickstephan&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <!---
