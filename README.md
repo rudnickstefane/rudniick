@@ -16,6 +16,15 @@
 - 📫 Pode me contatar via e-mail: rudnick.nogueira@gmail.com
 - 🧠 Atualmente estou me aprimorando em Web Developer - Full Stack
 
+<div> 
+  <a href="https://instagram.com/eurudnick" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:rudnick.nogueira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rudnick-stephan-964568155/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rudnickstephan/rudnickstephan/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+
 Feito com ❤️ e JavaScript.
 <!---
 rudnickstephan/rudnickstephan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
