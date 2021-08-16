@@ -17,7 +17,7 @@
 - 🧠 Atualmente estou me aprimorando em Web Developer - Full Stack
 
 <div style="display: inline_block"><br>
-<img align="right" width="128" src="https://user-images.githubusercontent.com/88541407/129505438-e045c1f3-557f-4221-977b-0ef75815b963.png">
+<img align="right" width="128" src="https://user-images.githubusercontent.com/88541407/129608772-61ca0847-3279-4a08-9847-d21e7c84d84a.gif">
 </div>
 
   ##
