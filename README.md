@@ -16,6 +16,10 @@
 - 📫 Pode me contatar via e-mail: rudnick.nogueira@gmail.com
 - 🧠 Atualmente estou me aprimorando em Web Developer - Full Stack
 
+<div style="display: inline_block"><br>
+<img align="right" width="128" src="https://user-images.githubusercontent.com/88541407/129505438-e045c1f3-557f-4221-977b-0ef75815b963.png">
+</div>
+
   ##
 
 <div> 
